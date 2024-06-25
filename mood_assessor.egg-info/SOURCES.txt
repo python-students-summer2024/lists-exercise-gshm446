@@ -1,0 +1,9 @@
+README.md
+setup.py
+mood_assessor.egg-info/PKG-INFO
+mood_assessor.egg-info/SOURCES.txt
+mood_assessor.egg-info/dependency_links.txt
+mood_assessor.egg-info/requires.txt
+mood_assessor.egg-info/top_level.txt
+tests/__init__.py
+tests/test_mood_assessor.py
